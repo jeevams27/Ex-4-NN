@@ -1,5 +1,5 @@
-<H3>NAME : Manoj Kumar S</H3>
-<H3>ROLL NO : 212221230056 </H3>
+<H3>NAME : JEEVA MS</H3>
+<H3>ROLL NO : 212221230040 </H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: </H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
